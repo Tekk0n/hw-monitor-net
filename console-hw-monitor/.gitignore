@@ -1,0 +1,4 @@
+# Visual Studio generated binaries and outputs
+.vs/
+bin/
+obj/
