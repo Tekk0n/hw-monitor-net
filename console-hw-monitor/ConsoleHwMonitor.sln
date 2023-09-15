@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "console-hw-monitor", "console-hw-monitor.csproj", "{0E6A588D-1E24-4617-9E17-ACC80E3FD9DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleHwMonitor", "ConsoleHwMonitor.csproj", "{0E6A588D-1E24-4617-9E17-ACC80E3FD9DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
